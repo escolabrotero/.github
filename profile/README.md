@@ -1,3 +1,5 @@
+![Imagem da Escola Secundária Avelar Brotero](img/escola.webp)
+
 ## :wave: Bem-vindos
 
 A Escola Secundária Avelar Brotero é uma escola com raízes antigas na cidade de Coimbra. Desde sempre ligada a um ensino de cariz mais técnico, a escola conta com uma oferta formativa variada e um corpo docente estável.
