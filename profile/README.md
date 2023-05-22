@@ -21,5 +21,4 @@ Veja alguns recursos de professores da escola:
 Projetos e trabalhos que pela sua qualidade foram escolhidos para divulgação:
 
 - [Modelos 3D da Escola Secundária Avelar Brotero](https://escolabrotero.github.io/3d-esab-22_23.io/): modelos 3D efetuados por alunos da disciplina de TIC com recurso à plataforma [Tinkercad](https://www.tinkercad.com/)
-- [Simulador de conta bancária](https://github.com/ESAB-11PSI1-2022-2023/projeto-conta-bancaria-TomasQuaresma) (autor: [Tomás Quaresma](https://github.com/TomasQuaresma)): no âmbito da disciplina de Programação e Sistemas de Informação (curso profissional Técnico de Gestão e Programação de Sistemas Informáticos), o aluno desenvolveu uma aplicação que simula o sistema de pagamentos PayPal
-- 
+- [Simulador de conta bancária](https://github.com/ESAB-11PSI1-2022-2023/projeto-conta-bancaria-TomasQuaresma) (autor: [Tomás Quaresma](https://github.com/TomasQuaresma)): no âmbito da disciplina de Programação e Sistemas de Informação (curso profissional Técnico de Gestão e Programação de Sistemas Informáticos), o aluno desenvolveu uma aplicação que simula o sistema de pagamentos PayPal 
