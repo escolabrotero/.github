@@ -1,4 +1,4 @@
-![Imagem da Escola Secundária Avelar Brotero](img/escola.webp)
+![Imagem da Escola Secundária Avelar Brotero](https://raw.githubusercontent.com/escolabrotero/.github/main/profile/img/escola.webp)
 
 ## :wave: Bem-vindos
 
