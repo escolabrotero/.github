@@ -15,6 +15,7 @@ A Escola Secundária Avelar Brotero é uma escola com raízes antigas na cidade 
 
 Veja alguns recursos de professores da escola:
 
+- [Desafio de Programação: Páscoa 2024](https://joaomartiniano.github.io/desafio-programacao-pascoa-2024/)
 - [Recursos digitais multimédia](https://github.com/joaomartiniano/recursos-digitais) (autor: [João Martiniano](https://github.com/joaomartiniano)): repositório com um conjunto diversificado de fontes de recursos multimédia, maioritariamente gratuitos e de utilização livre
 - [Aplicação Clínica Médica de Coimbra](https://github.com/joaomartiniano/clinica-medica-coimbra) (autor: [João Martiniano](https://github.com/joaomartiniano)): demonstra como efetuar a ligação entre uma aplicação desktop, desenvolvida na linguagem C#, a uma base de dados MySQL/MariaDB
 
